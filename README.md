@@ -25,19 +25,20 @@ The first analysis of Outcomes Based on Launch Date, the data was filtered to sh
 
 A PivotTable was generated with the Kickstarters dataset, the filters used were "subcategory" and "years", the Rows column was filled with the "Date of Conversion", the columns/legned was "Outcomes" and the measure for the table was count of "Outcomes". After setting up the correct parameters for the table "play" and "all years" was selected for the filters to display the different amounts of succesful, failed and canceled plays throughout the years based on what months they decided to launch their campaigns.
 
-See Chart below for Outcomes Based on Launch Date:
-<picture>
+See Chart below for Outcomes Based on Launch Date
+
+
 ![Theaters_Outcomes_vs_Launch_Date](https://github.com/vanessaneang/kickstarter-analysis/blob/main/PNGs/Theaters_Outcomes_vs_Launch.png)
-</picture>
+
 
 ### Analysis of Outcomes Based on Goals
 
 Manually inputted the column names and first row with various goal ranges, then proceeded to use IFCOUNTS function to filter data based on criteria in the Kickstarters dataset. The filters used to populate the cells were based on only cells that were in the "play" subcategory, then filtered to three different categories "successful", "failed", or "canceled", then further filtered to include specific goal ranges. After this total outcomes in each ranges for the three different outcome categories were made in order to determine the percentage of each based on the specified goal ranges, i.e. percent of successful projects that reached less than $1000 of their goal. 
 
 See Chart below for Outcomes Based on Goals
-<picture>
+
 ![Outcomes_vs_Goals](https://github.com/vanessaneang/kickstarter-analysis/blob/main/PNGs/Outcomes_vs_Goals.png)
-</picture>
+
 
 ### Challenges and Difficulties Encountered
 The first analysis was fairly straightforward and utilized Excel's PivotTable function to generate the data chart. By doing so it was fairly easy to filter out the data and create a graph to coincide with the new PivotTable I generated for the analysis. The only initial challenge I had was taking out the extra information from the Date Created Conversion rows so it would show only the Months for all the years instead of the Quarters, but after I checked the Rows section for the Pivot Table I saw I could remove the unneeded information of the Date Created Conversion, so a more succint Month value was left.
