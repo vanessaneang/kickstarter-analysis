@@ -36,7 +36,7 @@ Manually inputted the column names and first row with various goal ranges, then 
 
 See Chart below for Outcomes Based on Goals
 <picture>
-![Outcomes_vs_Goals](C:\Users\neang\OneDrive\Desktop\Data Analysis Project\Crowdfunding Analysis\PNGs\Outcomes_vs_Goals.png)
+
 </picture>
 
 ### Challenges and Difficulties Encountered
