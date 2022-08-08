@@ -27,7 +27,7 @@ A PivotTable was generated with the Kickstarters dataset, the filters used were 
 
 See Chart below for Outcomes Based on Launch Date:
 <picture>
-![Theaters_Outcomes_vs_Launch_Date](C:\Users\neang\OneDrive\Desktop\Data Analysis Project\Crowdfunding Analysis\PNGs\Theaters_Outcomes_vs_Launch_Date.png)
+![Theaters_Outcomes_vs_Launch_Date](https://github.com/vanessaneang/kickstarter-analysis/blob/main/PNGs/Theaters_Outcomes_vs_Launch.png)
 </picture>
 
 ### Analysis of Outcomes Based on Goals
